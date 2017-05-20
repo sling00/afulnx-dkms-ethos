@@ -1,0 +1,10 @@
+Package: afulnx-dkms-ethos
+Source: afulnx-dkms-ethos
+Version: 5.05.04-dkms-ethos1
+Architecture: all
+Maintainer: Dale Chapman <dc@ethosdistro.com>
+Installed-Size: 1024
+Depends: dkms (>= 1.95)
+Section: misc
+Priority: optional
+Description: AMI afulnx bios flash utility helper utility and dkms scripting
